@@ -14,8 +14,9 @@ int main()
 {
     printf("Guru Nanak Dev Engineering College,\nGill Road,\nLudhiana, Punjab");
     return 0;
-}
-Program to add two integers.
+}_________________________________________________
+2) Program to add two integers.
+
 #include<stdio.h>
 int main()
 {
@@ -30,7 +31,7 @@ int main()
 }
 ____________________________________________________
 
-2) Program to find quotient and remainder.
+3) Program to find quotient and remainder.
 
 #include<stdio.h>
 int main()
@@ -48,7 +49,7 @@ int main()
 } 
 ____________________________________________________
 
-3) Program to swap two variables without 3rd variable.
+4) Program to swap two variables without 3rd variable.
 
 #include<stdio.h>
 int main()
@@ -67,7 +68,7 @@ int main()
 }
 
 ____________________________________________________
-4) Program to check even odd number.
+5) Program to check even odd number.
 
 #include<stdio.h>
 int main()
@@ -83,7 +84,7 @@ int main()
 }
 
 ____________________________________________________
-5) Finding greteast of two numbers.
+6) Finding greteast of two numbers.
 
 #include<stdio.h>
 int main()
@@ -101,7 +102,7 @@ int main()
 }
 
 ____________________________________________________
-6) Find greatest of three number .
+7) Find greatest of three number .
 
 #include<stdio.h>
 int main()
@@ -133,7 +134,7 @@ int main()
 }
 
 ____________________________________________________
-7) Program to assign grade to student according to percentage.
+8) Program to assign grade to student according to percentage.
 
 #include<stdio.h>
 int main()
@@ -175,7 +176,7 @@ int main()
 }
 ____________________________________________________
 
-8) Program to print roots of quadratic equation.
+9) Program to print roots of quadratic equation.
 
 #include<stdio.h>
 #include<math.h>
@@ -196,7 +197,7 @@ int main()
 }
 ____________________________________________________
 
-9) Program to check year is leap or not.
+10) Program to check year is leap or not.
 
 #include<stdio.h>
 int main()
@@ -212,7 +213,7 @@ int main()
 }
 
 ____________________________________________________
-10) Program to print table of 5.
+11) Program to print table of 5.
 
 
 #include<stdio.h>
@@ -229,7 +230,7 @@ int main()
 }
 
 ____________________________________________________
-11) To make simple calculator using switch case.
+12) To make simple calculator using switch case.
 
 #include<stdio.h>
 int main()
@@ -262,7 +263,7 @@ int main()
 }
 
 ____________________________________________________
-12) To calculate reverse of a number.
+13) To calculate reverse of a number.
 
 #include<stdio.h>
 int main()
@@ -281,7 +282,7 @@ int main()
 }
 
 ____________________________________________________
-13) To check whether number is palindrome or not.
+14) To check whether number is palindrome or not.
 
  #include<stdio.h>
 int main()
@@ -304,7 +305,7 @@ int main()
 }
 
 ____________________________________________________
-14) To check whether a number is prime or not.
+15) To check whether a number is prime or not.
 
 #include<stdio.h>
 int main()
@@ -331,7 +332,7 @@ int main()
 }
 ____________________________________________________
 
-15) Program to print prime numbers from 1 to 100.
+16) Program to print prime numbers from 1 to 100.
 #include <stdio.h>
  
 int main()
@@ -359,7 +360,7 @@ int main()
 } 
 
 ____________________________________________________
-16) Program to check whether a number is armstrong or not.
+17) Program to check whether a number is armstrong or not.
 
 #include<stdio.h>
 int main()
@@ -382,7 +383,7 @@ int main()
 }
 
 ____________________________________________________
-17) Print the following patterns:
+18) Print the following patterns:
 
 i) Pattern 1.
 #include<stdio.h>
@@ -443,7 +444,7 @@ int main()
 }
 
 ____________________________________________________
-18) Program to find largest from 1 dimensional array.
+19) Program to find largest from 1 dimensional array.
 
 #include<stdio.h>
 int main()
@@ -464,7 +465,7 @@ int main()
 }
 
 ____________________________________________________
-19) To find sumof the N natural numbers in an array.
+20) To find sumof the N natural numbers in an array.
 
 #include<stdio.h>
 int main()
@@ -487,7 +488,7 @@ int main()
 
 ____________________________________________________
 
-20) Program to add two matrices .
+21) Program to add two matrices .
 
 #include<stdio.h>
 int main() 
